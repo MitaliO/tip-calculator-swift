@@ -1,9 +1,4 @@
-# Pre-work - Tip Calculator
-
-
-Submitted by: **Mitali**
-
-Time spent: **2** hours spent in total
+# Tip Calculator
 
 ## User Stories
 
